@@ -1,6 +1,8 @@
 # CyberScan 
 
-[![Python 3](https://img.shields.io/badge/python-3-yellow.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/License-GPL%20v3-red.svg)](http://www.gnu.org/licenses/gpl-3.0)
+[![Python 3](https://img.shields.io/badge/python-3-yellow.svg)](https://www.python.org/)
+[![License](https://img.shields.io/badge/License-GPL%20v3-red.svg)](http://www.gnu.org/licenses/gpl-3.0)
+[![PyPI - Version](https://img.shields.io/pypi/v/cyberscan.svg)](https://pypi.org/project/cyberscan)
 
 CyberScan is an open source penetration testing tool that 
 can analyse packets , decoding  , scanning ports, pinging and geolocation of an IP including (latitude, longitude , region , country ...) 
@@ -19,6 +21,16 @@ Operating Systems Supported
 
 Installation
 ----
+
+You can install CyberScanAI with [pip](https://pypi.org/project/cyberscanai) or download by cloning the [Git](https://github.com/medbenali/CyberScan) repository.
+
+### Using pip
+
+```bash
+$ pip install cyberscan 
+```
+
+### Using Download [CyberScan](https://github.com/medbenali/CyberScan) repository
 
 You can download CyberScan by cloning the [Git](https://github.com/medbenali/CyberScan) repository:
 
